@@ -28,6 +28,10 @@ colSums(rio2016Medals[c("Gold","Silver","Bronze","Total")])
 # http://www.r-tutor.com/r-introduction/data-frame
 
 
+# The W3schools tutorial on R is also a helpful site to look at 
+# https://www.w3schools.com/r/
+
+
 # **************************************************************#
 # Optional
 # **************************************************************#
